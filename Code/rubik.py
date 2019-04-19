@@ -1,3 +1,12 @@
+////////////////////////////////////////
+/*
+   Author: Arda Peçel
+   Project: Rubik's Cube timer
+   Date: 01.03.2019
+   Version: v0.2
+*/
+////////////////////////////////////////
+
 import random
 from timeit import default_timer as timer
 
